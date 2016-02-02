@@ -1100,7 +1100,7 @@ AdFresca.setExceptionListener(new AFExceptionListener(){
 
 ## Release Notes
 - **v2.5.5 _(2016/01/23 Updated)_**
-  - [리워드 지급 기능](#give-reward)이 개선되어 지급 완료 확인이 가능해졌습니다. 기존의 OnReward 메소드가 deprecated 되었기 때문에 반드시 새로운 가이드를 참고하여 코드를 변경해야 합니다.
+  - [Give Reward](#give-reward)이 개선되어 지급 완료 확인이 가능해졌습니다. 기존의 OnReward 메소드가 deprecated 되었기 때문에 반드시 새로운 가이드를 참고하여 코드를 변경해야 합니다.
 - v2.4.8
   - [Image Push Notification](#image-push-notification) 전송 시 대쉬보드에 업로드된 이미지를 내려받아 표시하는 기능을 제공합니다.
 - v2.4.7
